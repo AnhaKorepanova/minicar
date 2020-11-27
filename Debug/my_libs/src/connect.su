@@ -1,0 +1,6 @@
+module.h:9:2:Module::Module(uint32_t)	16	static
+connect.cpp:7:1:Connect::Connect(UART_HandleTypeDef*)	16	static
+connect.cpp:13:6:void Connect::start_rx()	24	static
+connect.cpp:21:6:virtual void Connect::start()	16	static
+connect.cpp:26:6:virtual void Connect::update()	16	static
+connect.cpp:29:6:void Connect::handle_rx_idle()	24	static
