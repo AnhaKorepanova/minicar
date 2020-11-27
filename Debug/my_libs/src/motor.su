@@ -1,9 +1,9 @@
 module.h:9:2:Module::Module(uint32_t)	16	static
 motor.cpp:4:1:Motor::Motor(TIM_HandleTypeDef*)	24	static
 motor.cpp:11:6:void Motor::set_speed_norm(float)	32	static
-motor.cpp:31:6:void Motor::set_control_speed_norm(float)	16	static
-motor.cpp:35:6:virtual void Motor::start()	16	static
-motor.cpp:44:6:virtual void Motor::update()	32	static
-motor.cpp:57:6:void Motor::stop()	16	static
-motor.cpp:65:6:void Motor::test()	48	static
-motor.cpp:98:6:void Motor::test_pid()	48	static
+motor.cpp:27:6:void Motor::set_control_speed_norm(float)	16	static
+motor.cpp:31:6:virtual void Motor::start()	16	static
+motor.cpp:38:6:virtual void Motor::update()	16	static
+motor.cpp:42:6:void Motor::stop()	16	static
+motor.cpp:48:6:void Motor::test()	48	static
+motor.cpp:81:6:void Motor::test_pid()	48	static

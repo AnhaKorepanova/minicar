@@ -3,8 +3,7 @@ servo.cpp:3:7:float Servo::deg_to_pulse(float)	24	static
 servo.cpp:8:7:float Servo::pulse_to_deg(float)	24	static
 servo.cpp:13:6:void Servo::set_pulse(float)	24	static
 servo.cpp:17:1:Servo::Servo(TIM_HandleTypeDef*)	16	static
-servo.cpp:25:6:virtual void Servo::start()	16	static
-servo.cpp:29:6:void Servo::set_angle_deg(float)	16	static
-servo.cpp:43:6:virtual void Servo::update()	16	static
-servo.cpp:46:6:void Servo::test()	64	static
-servo.cpp:78:6:void Servo::test_deg()	64	static
+servo.cpp:23:6:virtual void Servo::start()	16	static
+servo.cpp:27:6:void Servo::set_angle_deg(float)	16	static
+servo.cpp:31:6:virtual void Servo::update()	16	static
+servo.cpp:35:6:void Servo::test()	64	static

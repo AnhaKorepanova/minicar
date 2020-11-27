@@ -1,6 +1,0 @@
-module.h:9:2:Module::Module(uint32_t)	16	static
-sensor.cpp:5:1:Sensor::Sensor(ADC_HandleTypeDef*)	16	static
-sensor.cpp:9:6:virtual void Sensor::start()	24	static
-sensor.cpp:17:6:void Sensor::get_value()	24	static
-sensor.cpp:31:6:virtual void Sensor::update()	16	static
-sensor.cpp:34:6:void Sensor::test()	16	static

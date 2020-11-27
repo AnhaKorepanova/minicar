@@ -62,8 +62,8 @@ minicar.bin \
 all: minicar.elf secondary-outputs
 
 # Tool invocations
-minicar.elf: $(OBJS) $(USER_OBJS) /home/anha/projects/minicar/race_car/minicar/STM32F103C8TX_FLASH.ld
-	arm-none-eabi-g++ -o "minicar.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"/home/anha/projects/minicar/race_car/minicar/STM32F103C8TX_FLASH.ld" -Wl,-Map="minicar.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+minicar.elf: $(OBJS) $(USER_OBJS) /home/anha/projects/minicar/test_students/minicar/STM32F103C8TX_FLASH.ld
+	arm-none-eabi-g++ -o "minicar.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"/home/anha/projects/minicar/test_students/minicar/STM32F103C8TX_FLASH.ld" -Wl,-Map="minicar.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

@@ -19,8 +19,6 @@ my_libs/src/car.o: ../my_libs/src/car.cpp ../my_libs/inc/car.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
- ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h \
- ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
@@ -29,7 +27,7 @@ my_libs/src/car.o: ../my_libs/src/car.cpp ../my_libs/inc/car.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
  ../Core/Inc/configs.h ../Core/Inc/main.h ../my_libs/inc/servo.h \
  ../my_libs/inc/module.h ../my_libs/inc/motor.h ../my_libs/inc/pid.h \
- ../my_libs/inc/connect.h ../my_libs/inc/sensor.h
+ ../my_libs/inc/connect.h
 
 ../my_libs/inc/car.h:
 
@@ -73,10 +71,6 @@ my_libs/src/car.o: ../my_libs/src/car.cpp ../my_libs/inc/car.h \
 
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h:
 
-../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h:
-
-../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h:
-
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h:
 
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h:
@@ -102,5 +96,3 @@ my_libs/src/car.o: ../my_libs/src/car.cpp ../my_libs/inc/car.h \
 ../my_libs/inc/pid.h:
 
 ../my_libs/inc/connect.h:
-
-../my_libs/inc/sensor.h:
