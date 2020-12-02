@@ -9,3 +9,8 @@ Initial repository for developing a small car.
 Ветка play_freertos - проект для тестирования разных фич FreeRTOSа.
 
 Если вам кажется, что что-либо не так или у вас возникают вопросы, прошу, не бойтесь отписываться в комментариях или на почту. Курс все еще находится на стадии разработки, по этому может быть не полным.
+
+
+Доп. материалы:
+1) [Даташит для STM32F103C8t6](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwihosS2j6_tAhWQw4sKHY37D5sQFjAAegQIBRAC&url=https%3A%2F%2Fwww.st.com%2Fresource%2Fen%2Fdatasheet%2Fcd00161566.pdf&usg=AOvVaw3oI_LKfglaq8z3oENA84QU)
+2) [Статья по FreeRTOS](http://easyelectronics.ru/img/ARM_kurs/FreeRTOS/Kurniz.pdf)
