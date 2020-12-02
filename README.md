@@ -12,5 +12,5 @@ Initial repository for developing a small car.
 
 
 Доп. материалы:
-1) [Даташит для STM32F103C8t6](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwihosS2j6_tAhWQw4sKHY37D5sQFjAAegQIBRAC&url=https%3A%2F%2Fwww.st.com%2Fresource%2Fen%2Fdatasheet%2Fcd00161566.pdf&usg=AOvVaw3oI_LKfglaq8z3oENA84QU)
+1) [Даташит для STM32F103C8T6](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwihosS2j6_tAhWQw4sKHY37D5sQFjAAegQIBRAC&url=https%3A%2F%2Fwww.st.com%2Fresource%2Fen%2Fdatasheet%2Fcd00161566.pdf&usg=AOvVaw3oI_LKfglaq8z3oENA84QU)
 2) [Статья по FreeRTOS](http://easyelectronics.ru/img/ARM_kurs/FreeRTOS/Kurniz.pdf)
