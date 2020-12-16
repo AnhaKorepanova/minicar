@@ -12,5 +12,6 @@ Initial repository for developing a small car.
 
 
 Доп. материалы:
+1) [Reference manual STM32F103](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjZvIHtu9LtAhUl_CoKHWPnDJ0QFjAAegQIARAC&url=https%3A%2F%2Fwww.st.com%2Fresource%2Fen%2Freference_manual%2Fcd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf&usg=AOvVaw2kF0T1D3TzsgvgnX7fvMku)
 1) [Даташит для STM32F103C8T6](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwihosS2j6_tAhWQw4sKHY37D5sQFjAAegQIBRAC&url=https%3A%2F%2Fwww.st.com%2Fresource%2Fen%2Fdatasheet%2Fcd00161566.pdf&usg=AOvVaw3oI_LKfglaq8z3oENA84QU)
 2) [Статья по FreeRTOS](http://easyelectronics.ru/img/ARM_kurs/FreeRTOS/Kurniz.pdf)
